@@ -1,0 +1,19 @@
+NEGATIVE CUSTOMER REVIEW ANALYSIS
+========================================
+
+Negative reviews analyzed: 77
+
+Most common words:
+his: 159
+her: 113
+she: 98
+who: 95
+how: 82
+life: 80
+read: 75
+like: 75
+people: 74
+out: 72
+
+Interpretation:
+Frequent words can suggest topics in negative reviews. The original reviews should be read to confirm the actual customer problems before making business decisions.
