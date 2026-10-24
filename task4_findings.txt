@@ -1,0 +1,13 @@
+PUBLIC OPINION AND SENTIMENT TRENDS
+========================================
+
+Total reviews analyzed: 920
+
+Sentiment Distribution:
+Sentiment
+Positive    821
+Negative     77
+Neutral      22
+
+Conclusion:
+Customer reviews were analyzed to understand public opinion. Sentiment categories and rating patterns can help identify customer satisfaction and areas for improvement.
