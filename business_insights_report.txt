@@ -1,0 +1,15 @@
+BUSINESS INSIGHTS REPORT
+===================================
+
+Total reviews analyzed: 920
+
+Sentiment Distribution:
+Positive: 821 reviews (89.24%)
+Negative: 77 reviews (8.37%)
+Neutral: 22 reviews (2.39%)
+
+Business Recommendations:
+1. Review negative feedback to identify customer problems.
+2. Study positive reviews to understand customer preferences.
+3. Examine neutral reviews to find improvement opportunities.
+4. Monitor sentiment regularly to track customer opinions.
