@@ -1,0 +1,6 @@
+CUSTOMER REVIEW SENTIMENT REPORT
+Total Reviews: 920
+
+Positive: 821 reviews (89.24%)
+Negative: 77 reviews (8.37%)
+Neutral: 22 reviews (2.39%)
