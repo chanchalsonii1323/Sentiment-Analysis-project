@@ -73,3 +73,26 @@ Follow any additional setup instructions required by the script.
 Chanchal Soni
 
 GitHub: "@chanchalsoni11323" (https://github.com/chanchalsoni11323)
+
+
+📊 Project Visualizations
+
+Customer Sentiment Analysis
+
+"Customer Sentiment Chart" (customer_sentiment_chart.png)
+
+Emotion Detection
+
+"Emotion Detection Chart" (emotion_detection_chart.png)
+
+Monthly Sentiment Trends
+
+"Monthly Sentiment Trends" (monthly_sentiment_trends.png)
+
+Price vs Rating
+
+"Price vs Rating" (price_vs_rating.png)
+
+Rating Distribution
+
+"Rating Chart" (rating_chart.png)
